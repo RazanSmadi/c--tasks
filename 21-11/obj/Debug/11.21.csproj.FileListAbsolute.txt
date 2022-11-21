@@ -1,0 +1,8 @@
+C:\Users\q\source\repos\11.21\bin\Debug\11.21.exe.config
+C:\Users\q\source\repos\11.21\bin\Debug\11.21.exe
+C:\Users\q\source\repos\11.21\bin\Debug\11.21.pdb
+C:\Users\q\source\repos\11.21\obj\Debug\11.21.csproj.AssemblyReference.cache
+C:\Users\q\source\repos\11.21\obj\Debug\11.21.csproj.SuggestedBindingRedirects.cache
+C:\Users\q\source\repos\11.21\obj\Debug\11.21.csproj.CoreCompileInputs.cache
+C:\Users\q\source\repos\11.21\obj\Debug\11.21.exe
+C:\Users\q\source\repos\11.21\obj\Debug\11.21.pdb
