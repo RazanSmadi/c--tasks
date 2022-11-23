@@ -1,0 +1,8 @@
+C:\Users\q\csharp-tasks\11.23\bin\Debug\11.23.exe.config
+C:\Users\q\csharp-tasks\11.23\bin\Debug\11.23.exe
+C:\Users\q\csharp-tasks\11.23\bin\Debug\11.23.pdb
+C:\Users\q\csharp-tasks\11.23\obj\Debug\11.23.csproj.AssemblyReference.cache
+C:\Users\q\csharp-tasks\11.23\obj\Debug\11.23.csproj.SuggestedBindingRedirects.cache
+C:\Users\q\csharp-tasks\11.23\obj\Debug\11.23.csproj.CoreCompileInputs.cache
+C:\Users\q\csharp-tasks\11.23\obj\Debug\11.23.exe
+C:\Users\q\csharp-tasks\11.23\obj\Debug\11.23.pdb

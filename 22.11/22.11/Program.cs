@@ -25,6 +25,7 @@ namespace _22._11
 
 
 
+
 //Favorite Food(5 item)
 //Favorite Sport(3 item)
 //Favorite Movie(4 item)
@@ -69,10 +70,10 @@ namespace _22._11
 
             for(int i=0; i < 4; i++) {
 
-                //for (int j = 4 - i; j > 0; j--)
-                //{
-                //    Console.Write(" ");
-                //}
+                for (int j = 4 - i; j > 0; j--)
+                {
+                    Console.Write(" ");
+                }
                 for (int j = 0; j <=i; j++)
                 {
                     Console.Write("*" + " ");
