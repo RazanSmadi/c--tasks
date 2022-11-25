@@ -97,7 +97,7 @@ namespace _11._23
 
         static void task8(int year)
         {
-            if (year < 2024 && year > 1900)
+            if (year <= 2024 && year >= 1900)
             {
                 if (year ==1900) { Console.WriteLine(" is a not leap year."); }
                 else if (year % 4 == 0){  Console.WriteLine( " is a leap year.");}
@@ -110,7 +110,7 @@ namespace _11._23
         static void task9(int x)
         {
             bool flag = false;
-            for (int i = 2; i <= x / 2; ++i)
+            for (int i = 2; i <= x / 2; i++)
             {
                 if (x % i == 0)
                 {
@@ -171,13 +171,13 @@ namespace _11._23
             //Console.WriteLine("\n");
 
 
-            Console.WriteLine("task7");
-            task6("ali", "567");
-            Console.WriteLine("\n");
-
-            //Console.WriteLine("task8");
-            //task8(2022);
+            //Console.WriteLine("task7");
+            //task6("ali", "567");
             //Console.WriteLine("\n");
+
+            Console.WriteLine("task8");
+            task8(2022);
+            Console.WriteLine("\n");
 
             //Console.WriteLine("task9");
             //Console.WriteLine("inter number to check if prime or not");
