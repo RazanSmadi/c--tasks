@@ -69,10 +69,10 @@ namespace _11._23
                     break;
                    
                 }
-                else 
+                else if (i == passwords.Length - 1)
                 {
-                    Console.WriteLine("login failed");
-                    break;
+                    Console.WriteLine("faild login");
+
                 }
             }
 
@@ -92,10 +92,9 @@ namespace _11._23
                 return x;
             }
 
-
-
-
         }
+
+
         static void task8(int year)
         {
             if (year < 2024 && year > 1900)
@@ -172,13 +171,13 @@ namespace _11._23
             //Console.WriteLine("\n");
 
 
-            ////Console.WriteLine("task7");
-            ////task6("razan", "12345");
-            ////Console.WriteLine("\n");
-
-            Console.WriteLine("task8");
-            task8(2022);
+            Console.WriteLine("task7");
+            task6("ali", "567");
             Console.WriteLine("\n");
+
+            //Console.WriteLine("task8");
+            //task8(2022);
+            //Console.WriteLine("\n");
 
             //Console.WriteLine("task9");
             //Console.WriteLine("inter number to check if prime or not");
